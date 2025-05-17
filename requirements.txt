@@ -1,0 +1,5 @@
+Flask==3.0.3
+transformers==4.44.2
+torch==2.4.1
+ffmpeg-python==0.2.0
+gunicorn==23.0.0
